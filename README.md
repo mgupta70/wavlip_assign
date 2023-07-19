@@ -1,5 +1,5 @@
 # wavlip_assign
-Wav2lip experiment using pretrained model
+Lip sync experiment using wav2lip pretrained model
 
 # Step-1 Segmenting clips where the Person of Interest (POI) is present
 - `Assign_1_101_preprocessing.ipynb`
